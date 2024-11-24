@@ -28,7 +28,6 @@ $font-weight-base: 400;
 // Corpo della pagina
 body {
   margin: 0;
-  display: flex;
 }
 
 // Titoli
@@ -40,9 +39,7 @@ h1 {
 
 // App container
 #app {
-  max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
