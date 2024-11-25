@@ -1,0 +1,3 @@
+[submodule "vue-general-components"]
+	path = src/components/vue-general-components
+	url = git@github-hiddenpc:HiddenPCOfficial/vue-general-components.git
